@@ -1,1 +1,1 @@
-# calc_on_js
+# Калькулятор на JavaScript
